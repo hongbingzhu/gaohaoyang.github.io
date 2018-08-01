@@ -2,8 +2,8 @@
 layout: post
 title:  "PowerPC的U-Boot Nand启动SPL技巧"
 date:   2013-01-09 12:42:24
-categories: 
-tags: 
+categories: Embedded Kernel
+tags: powerpc uboot spl
 ---
 
 * content

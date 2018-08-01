@@ -2,7 +2,7 @@
 layout: post
 title:  "Linux Zynq GPIO中断"
 date:   2014-06-08 18:39:37
-categories: Kernel
+categories: Embedded Kernel
 tags: Kernel Zynq interrupt
 ---
 

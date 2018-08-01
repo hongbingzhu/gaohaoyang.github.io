@@ -3,7 +3,7 @@ layout: post
 title:  "类继承的设计"
 date:   2014-05-05 16:49:29
 categories: Architecture
-tags: Class Inherit
+tags: C++ Inherit
 ---
 
 * content
