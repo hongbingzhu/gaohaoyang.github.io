@@ -2,8 +2,8 @@
 layout: post
 title:  "MySQL恢复和UTF文件BOM标志读取问题"
 date:   2011-07-14 14:23:26
-categories: Database
-tags: MySQL UTF
+categories: desktop database
+tags: mysql utf encoding
 ---
 
 * content

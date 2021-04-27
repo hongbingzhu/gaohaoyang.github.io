@@ -2,8 +2,8 @@
 layout: post
 title:  "软件开发界面管理"
 date:   2009-02-06 10:36:00
-categories: DesktopDev
-tags: UI design essays 
+categories: desktop ui
+tags: ui design essays 
 ---
 
 * content

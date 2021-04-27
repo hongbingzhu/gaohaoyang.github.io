@@ -2,8 +2,8 @@
 layout: post
 title:  "VC2005 MFC程序的清单文件"
 date:   2009-01-19 14:01:00
-categories: DesktopDev
-tags: MFC manifest
+categories: desktop mfc
+tags: mfc manifest
 ---
 
 * content

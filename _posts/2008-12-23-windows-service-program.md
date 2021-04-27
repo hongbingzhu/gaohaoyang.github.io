@@ -2,7 +2,7 @@
 layout: post
 title:  "使服务程序像模像样"
 date:   2008-12-23 16:54:00
-categories: DesktopDev
+categories: desktop service
 tags: windows service
 ---
 

@@ -2,8 +2,8 @@
 layout: post
 title:  "ISCSI+单机同步软件构成局域网数据备份方案"
 date:   2008-11-25 09:27:00
-categories: Software
-tags: iSCSI
+categories: software
+tags: iscsi
 ---
 
 * content

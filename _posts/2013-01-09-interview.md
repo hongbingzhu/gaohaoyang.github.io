@@ -2,8 +2,8 @@
 layout: post
 title:  "面试总结"
 date:   2013-01-09 12:31:07
-categories: Interview
-tags: Interview
+categories: interview
+tags: interview
 ---
 
 * content

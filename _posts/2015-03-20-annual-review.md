@@ -2,8 +2,8 @@
 layout: post
 title:  "2014年度周会总结"
 date:   2015-03-20 10:54:52
-categories: WorkNote
-tags: Note
+categories: worknote
+tags: note
 ---
 
 * content

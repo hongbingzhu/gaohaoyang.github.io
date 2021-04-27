@@ -2,8 +2,8 @@
 layout: post
 title:  "别样的面试"
 date:   2012-08-14 00:35:39
-categories: Interview
-tags: Interview
+categories: interview
+tags: interview
 ---
 
 * content

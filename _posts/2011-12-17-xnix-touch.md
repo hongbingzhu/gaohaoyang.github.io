@@ -2,7 +2,7 @@
 layout: post
 title:  "xnix下的touch命令"
 date:   2011-12-17 10:23:08
-categories: Linux Shell
+categories: linux shell
 tags: touch
 ---
 

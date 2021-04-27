@@ -2,8 +2,8 @@
 layout: post
 title:  "嵌入式项目设计应该注意的事项"
 date:   2011-12-17 14:22:29
-categories: Architecture
-tags: Note
+categories: architecture
+tags: note
 ---
 
 * content

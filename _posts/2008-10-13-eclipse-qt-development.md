@@ -2,8 +2,8 @@
 layout: post
 title:  "搭建Eclipse+Qt开发平台"
 date:   2008-10-13 18:06:00
-categories: Qt
-tags: eclipse Qt
+categories: desktop qt
+tags: eclipse qt
 ---
 
 * content

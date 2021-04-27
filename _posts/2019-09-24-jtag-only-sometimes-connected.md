@@ -2,8 +2,8 @@
 layout: post
 title:  "ARM调试器只能偶尔连接成功问题"
 date:   2019-9-24 21:58
-categories: Embedded
-tags: Debugger ARM Embedded
+categories: embedded hardware
+tags: debugger arm
 ---
 
 * content

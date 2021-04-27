@@ -2,8 +2,8 @@
 layout: post
 title:  "推荐一下自己写的通讯调试软件"
 date:   2008-12-23 16:51:00
-categories: DesktopDev
-tags: Debug UART Serial TCP UDP
+categories: desktop works
+tags: debug uart serial tcp udp
 ---
 
 * content

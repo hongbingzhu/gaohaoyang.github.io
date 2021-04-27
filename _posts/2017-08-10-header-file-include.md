@@ -2,7 +2,7 @@
 layout: post
 title:  "头文件包含顺序以及设计原则"
 date:   2017-08-10 11:51:12
-categories: Architecture
+categories: architecture
 tags: include
 ---
 

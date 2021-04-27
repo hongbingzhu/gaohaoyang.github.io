@@ -2,8 +2,8 @@
 layout: post
 title:  "RT-Thread中的串口DMA分析"
 date:   2019-9-11 11:09
-categories: Embedded
-tags: rt-thread STM32 Embedded
+categories: embedded rtos
+tags: rt-thread stm32 usart
 ---
 
 * content

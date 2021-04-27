@@ -2,8 +2,8 @@
 layout: post
 title:  "服务运行状态下的ODBC数据库访问问题"
 date:   2008-12-02 16:55:00
-categories: DesktopDev
-tags: ODBC service
+categories: desktop database
+tags: odbc service
 ---
 
 * content

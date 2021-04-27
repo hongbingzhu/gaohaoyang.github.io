@@ -2,8 +2,8 @@
 layout: post
 title:  "OpenCV笔记（I）"
 date:   2019-10-26 21:23
-categories: OpenCV
-tags: OpenCV
+categories: opencv
+tags: opencv
 ---
 
 * content

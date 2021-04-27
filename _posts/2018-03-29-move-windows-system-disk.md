@@ -2,7 +2,7 @@
 layout: post
 title:  "将Windows系统移到另一个硬盘"
 date:   2018-03-29 15:51:01
-categories: WindowsOS
+categories: desktop windows
 tags: migration
 ---
 

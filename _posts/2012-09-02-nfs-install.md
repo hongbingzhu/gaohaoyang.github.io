@@ -2,8 +2,8 @@
 layout: post
 title:  "NFS安装"
 date:   2012-09-02 23:44:42
-categories: Software
-tags: NFS
+categories: desktop software
+tags: nfs
 ---
 
 * content

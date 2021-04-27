@@ -2,8 +2,8 @@
 layout: post
 title:  "雪狐密码箱PwdBox记录导出"
 date:   2012-11-05 10:01:44
-categories: DesktopDev
-tags: PwdBox Delphi Spy++
+categories: desktop works
+tags: pwdbox delphi spy++
 ---
 
 * content

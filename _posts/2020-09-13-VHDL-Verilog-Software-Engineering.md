@@ -2,8 +2,8 @@
 layout: post
 title:  "VHDL/Verilog里的软件工程"
 date:   2020-09-13 9:17
-categories: FPGA Verilog VHDL
-tags: Verilog VHDL Software-Engineering
+categories: fpga verilog vhdl
+tags: verilog vhdl management
 ---
 
 * content

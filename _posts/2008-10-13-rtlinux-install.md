@@ -2,8 +2,8 @@
 layout: post
 title:  "RTLinux安装"
 date:   2008-10-13 11:11:00
-categories: Linux
-tags: RTLinux
+categories: linux real-time
+tags: rt-linux
 ---
 
 * content

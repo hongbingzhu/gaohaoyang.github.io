@@ -2,8 +2,8 @@
 layout: post
 title:  "项目开发中的“绕”"
 date:   2012-01-04 21:33:53
-categories: Project
-tags: Bug Project
+categories: project
+tags: management project
 ---
 
 * content
